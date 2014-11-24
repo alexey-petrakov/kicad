@@ -1,5 +1,5 @@
-(module DG-300-5.0-02P (layer F.Cu) (tedit 546B369B)
-  (fp_text reference DG-300-5.0-02P (at 0 0) (layer F.SilkS)
+(module DG300-5.0-02P (layer F.Cu) (tedit 5472DB0B)
+  (fp_text reference DG300-5.0-02P (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 1.524) (layer F.SilkS)
